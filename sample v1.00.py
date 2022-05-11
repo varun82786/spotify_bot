@@ -83,14 +83,14 @@ def signup(email,password,name):
         (By.XPATH, '//*[@id="context-menu"]/div/ul/li[4]/button'))).click()
 
 
-
+""""
 name = "ramdev"+random.choice(list(map(chr, range(97, 123)))) + \
     random.choice(list(map(chr, range(97, 123)))) + \
     random.choice(list(map(chr, range(97, 123))))
 domain = "@gmail.com"
 email = name+domain
 print(email)
-signup(email,"ratQ129#2!@","Ram dev")
+signup(email,"ratQ129#2!@","Ram dev")"""
 
 """
 for data in people_data:
@@ -107,5 +107,19 @@ for data in people_data:
         driver.close()
         continue
 
-
+ramdevbyd@gmail.com
+ramdevgwo@gmail.com
 """
+
+test_data=[['ramdevbyd@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevqkl@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevgwo@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevbyd@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevgwo@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevfjc@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevbyd@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdeveuf@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevgwo@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevbyd@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevgwo@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevvnl@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevbyd@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevdll@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevgwo@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevbyd@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevgwo@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevpfp@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevbyd@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdeveni@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevgwo@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevbyd@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevgwo@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevyrz@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevbyd@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevxog@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevgwo@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevbyd@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevgwo@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevlyk@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevbyd@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevpgx@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevgwo@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevbyd@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevgwo@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevqdg@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevbyd@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevtcb@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevgwo@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevbyd@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevgwo@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevgzr@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevbyd@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevacs@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevgwo@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevbyd@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevgwo@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdeveff@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevbyd@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevlot@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevgwo@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevbyd@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevgwo@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevgnz@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevbyd@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevzko@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevgwo@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevbyd@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevgwo@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevivm@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevbyd@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevraa@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevgwo@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevbyd@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevgwo@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevcwk@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevbyd@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevqes@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevgwo@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevbyd@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevgwo@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevnwr@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevbyd@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevujj@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevgwo@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevbyd@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevgwo@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevyvc@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevbyd@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevxoe@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevgwo@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevbyd@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevgwo@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevint@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevbyd@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevhzw@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevgwo@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevbyd@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevgwo@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevqex@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevbyd@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevjvt@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevgwo@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevbyd@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevgwo@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevpks@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevbyd@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevtxq@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevgwo@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevbyd@gmail.com', 'ratQ129#2!@', 'Ram dev'], ['ramdevgwo@gmail.com', 'ratQ129#2!@', 'Ram dev']]
+for data in test_data:
+    try:
+        email=data[0]
+        password=data[1]
+        name=data[2]
+        
+        signup(email,password,name)
+    except:
+        
+        continue
+        
